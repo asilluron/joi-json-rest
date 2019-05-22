@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/asilluron/joi-json-rest#readme",
   "dependencies": {
-    "confidence": "^3.0.2",
-    "glob": "^7.1.1",
-    "joi": "^10.2.0"
+    "@hapi/joi": "^15.0.3",
+    "confidence": "^4.0.2",
+    "glob": "^7.1.4"
   }
 }
